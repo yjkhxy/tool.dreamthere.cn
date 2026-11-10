@@ -1,0 +1,101 @@
+{
+  "checkedAt": "2026-11-10",
+  "results": [
+    {
+      "url": "https://tool.dreamthere.cn/",
+      "status": 200,
+      "canonical": "https://tool.dreamthere.cn/",
+      "robots": null
+    },
+    {
+      "url": "https://tool.dreamthere.cn/cate/ai",
+      "status": 200,
+      "canonical": "https://tool.dreamthere.cn/cate/ai",
+      "robots": null
+    },
+    {
+      "url": "https://tool.dreamthere.cn/cate/api",
+      "status": 200,
+      "canonical": "https://tool.dreamthere.cn/cate/api",
+      "robots": null
+    },
+    {
+      "url": "https://tool.dreamthere.cn/cate/code",
+      "status": 200,
+      "canonical": "https://tool.dreamthere.cn/cate/code",
+      "robots": null
+    },
+    {
+      "url": "https://tool.dreamthere.cn/cate/data",
+      "status": 200,
+      "canonical": "https://tool.dreamthere.cn/cate/data",
+      "robots": null
+    },
+    {
+      "url": "https://tool.dreamthere.cn/cate/design",
+      "status": 200,
+      "canonical": "https://tool.dreamthere.cn/cate/design",
+      "robots": null
+    },
+    {
+      "url": "https://tool.dreamthere.cn/cate/domain",
+      "status": 200,
+      "canonical": "https://tool.dreamthere.cn/cate/domain",
+      "robots": null
+    },
+    {
+      "url": "https://tool.dreamthere.cn/cate/img",
+      "status": 200,
+      "canonical": "https://tool.dreamthere.cn/cate/img",
+      "robots": null
+    },
+    {
+      "url": "https://tool.dreamthere.cn/cate/index",
+      "status": 200,
+      "canonical": "https://tool.dreamthere.cn/cate/index",
+      "robots": null
+    },
+    {
+      "url": "https://tool.dreamthere.cn/cate/keywords",
+      "status": 200,
+      "canonical": "https://tool.dreamthere.cn/cate/keywords",
+      "robots": null
+    },
+    {
+      "url": "https://tool.dreamthere.cn/cate/prompt",
+      "status": 200,
+      "canonical": "https://tool.dreamthere.cn/cate/prompt",
+      "robots": null
+    },
+    {
+      "url": "https://tool.dreamthere.cn/cate/seo",
+      "status": 200,
+      "canonical": "https://tool.dreamthere.cn/cate/seo",
+      "robots": null
+    },
+    {
+      "url": "https://tool.dreamthere.cn/cate/video",
+      "status": 200,
+      "canonical": "https://tool.dreamthere.cn/cate/video",
+      "robots": null
+    },
+    {
+      "url": "https://tool.dreamthere.cn/en/",
+      "status": 200,
+      "canonical": "https://tool.dreamthere.cn/en/",
+      "robots": null
+    },
+    {
+      "url": "https://tool.dreamthere.cn/keywords",
+      "status": 200,
+      "canonical": "https://tool.dreamthere.cn/keywords",
+      "robots": null
+    },
+    {
+      "url": "https://tool.dreamthere.cn/site/submit",
+      "status": 200,
+      "canonical": "https://tool.dreamthere.cn/site/submit",
+      "robots": "noindex,follow"
+    }
+  ]
+}

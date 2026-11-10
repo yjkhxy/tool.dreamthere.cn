@@ -1,0 +1,31 @@
+name: 工具信息纠错
+description: 报告失效链接、用途介绍或分类错误
+title: "[纠错] "
+body:
+  - type: input
+    id: tool
+    attributes:
+      label: 工具名称
+    validations:
+      required: true
+  - type: input
+    id: page
+    attributes:
+      label: 受影响的站内页面
+      placeholder: https://tool.dreamthere.cn/...
+    validations:
+      required: true
+  - type: textarea
+    id: problem
+    attributes:
+      label: 问题与建议修正
+      description: 请描述实际观察结果，不要包含密码、API Key 或个人信息。
+    validations:
+      required: true
+  - type: textarea
+    id: evidence
+    attributes:
+      label: 官方依据与检查日期
+      description: 提供官网或官方文档地址，注明检查日期及必要的地区、设备条件；无法核实请明确说明。
+    validations:
+      required: true
